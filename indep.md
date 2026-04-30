@@ -33,8 +33,15 @@ Working for yourself can be amazing, but it does come with some challenges. Firs
 4. Office politics and dynamics are gone or temporary.
 5. Automating the boring administrative stuff. 
 
+:::{warning} A word about bosses
+:class: dropdown
+It's easy to bash bosses. Although they're just trying to do their jobs, I often have found them to be a hindrance, do reviews poorly, and care more about the bottom line or rules than getting work done or innovating. Thinking back on my career, I can name 
+:::
+
 # Dislikes
 1. Waking up in the middle of the night and thinking you need more projects
 2. Balance of too many vs. too few projects. Challenging of getting the balance just right.
 
 # Resources
+1. Build your own website
+2. Create marketing materials
