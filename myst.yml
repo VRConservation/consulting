@@ -2,7 +2,18 @@
 version: 1
 project:
   id: f8a96585-9fd1-452d-937f-93629604eda5
-  # title:
+  # title: CONSULTING AS A PATH TO INDEPENDENCE
+  subtitle: Likes & dislikes of working independently
+  subject: Independent Consulting
+  authors:
+  - name: Vance Russell
+    affiliations:
+      - 3point.xyz
+    email: vance@3point.xyz
+  license:
+    content: CC-BY-SA-3.0
+    code: MIT
+  date: 2026-05-01    
   # description:
   # keywords: []
   # authors: []
