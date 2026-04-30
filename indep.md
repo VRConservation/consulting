@@ -10,7 +10,7 @@ authors:
 license: CC-BY-4.0
 keywords: work, independences, bad boss
 abstract: |
-   What I love and don't love about working for myself
+   Working independently offers significant personal and professional freedom, including the ability to choose your own projects, set your schedule, and escape corporate office politics and performance reviews. However, this independence comes with distinct challenges, such as managing project pipeline anxiety, balancing workload between too many and too few commitments, and handling administrative responsibilities like taxes and bookkeeping. Despite these drawbacks, consulting provides opportunities to automate tedious administrative tasks and build a career aligned with personal values. Many independent consultants find they can leverage client feedback more constructively than traditional employer reviews. Overall, the benefits of independence—autonomy, schedule flexibility, and freedom from corporate dynamics—substantially outweigh the challenges for those willing to navigate the entrepreneurial aspects of solo consulting.
 exports:
     - format: docx
       template: curvenote
@@ -24,7 +24,7 @@ exports:
 # Takeaways
 
 # Overview
-
+Working for yourself can be amazing, but it does come with some challenges. First, you're independent, can pick and choose projects you want, you don't have a boss, and you're not paying overhead to a business or organization that isn't your own. On the other hand, you have to market yourself and build a project base, you have many bosses (albeit temporary), and you have to pay taxes and other indirect operating costs yourself. Balancing some of the administrative issues can take it's toll and many pay for others to do this for them, e.g., taxes, bookkeeping, invoicing. Yet overall, I've found the pluses to far outweigh the minuses. In this article I review my likes and dislikes of working independently and offer some insights for things to consider if you're contemplating becoming independent.
 
 # Likes
 1. Choosing what you work on.
@@ -36,3 +36,5 @@ exports:
 # Dislikes
 1. Waking up in the middle of the night and thinking you need more projects
 2. Balance of too many vs. too few projects. Challenging of getting the balance just right.
+
+# Resources
