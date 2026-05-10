@@ -1,5 +1,5 @@
 ---
-title: The Real Talk About Independent Consulting Nobody Tells You
+title: Get Real Talk About Independent Consulting
 subject: Consulting
 short_title: What 10 years of independence taught me
 date: 2026-05-01
@@ -8,7 +8,7 @@ authors:
     affiliations:
       - 3point.xyz
 license: CC-BY-4.0
-keywords: work, independence
+keywords: 
 abstract: |
   Working independently offers significant personal and professional freedom, including the ability to choose your own projects, set your schedule, and escape corporate office politics and performance reviews. However, this independence comes with distinct challenges, such as managing project pipeline anxiety, balancing workload between too many and too few commitments, and handling administrative responsibilities like taxes and bookkeeping. Despite these drawbacks, consulting provides opportunities to automate tedious administrative tasks and build a career aligned with personal values. Many independent consultants find they can leverage client feedback more constructively than traditional employer reviews. Overall, the benefits of independence—autonomy, schedule flexibility, and freedom from corporate dynamics—substantially outweigh the challenges for those willing to navigate the entrepreneurial aspects of solo consulting.
 exports:
@@ -21,31 +21,26 @@ exports:
     output: exports/indep.pdf
 ---
 
-# The Real Talk About Independent Consulting Nobody Tells You
-*Three years ago, I walked away from working for an organizatin. Here's what I learned about working for yourself—the good, the challenging, and the surprisingly liberating.*
+# Independent Consulting
+>Three years ago, I walked away from working for an organizatin. Here's what I learned about working for yourself—the good, the challenging, and the surprisingly liberating.
 
-## Why This Matters
-If you're considering independence, you've probably heard the usual advice: "be your own boss," "unlimited earning potential," "work from anywhere." But here's what actually happens when you make the leap—and why I'd do it again in a heartbeat.
+If you're considering independence, you've probably heard the usual tropes of be your own boss, unlimited earning potential, or work from anywhere. But here's what actually happens when you make the leap—and why I'd do it again in a heartbeat.
 
-# Key Insights
-💡 **Autonomy trumps security**: The freedom to choose your projects and control your time is worth more than a steady paycheck and benefits package.
-
-⚖️ **The project pipeline paradox**: You'll oscillate between feast and famine until you find your rhythm. The hardest part isn't the work—it's managing the flow.
-
-🤝 **Your network IS your safety net**: Your next project comes from someone who knows someone. Invest in relationships like your business depends on it (because it does).
-
-🤖 **Automate or suffocate**: The admin work will drown you unless you systematically eliminate it through automation and smart tools.
-
+# Insights
+💡 **Autonomy trumps security**: The freedom to choose your projects and control your time is worth more than a steady paycheck and benefits package.<br>
+⚖️ **The project pipeline paradox**: You'll oscillate between feast and famine until you find your rhythm. The hardest part isn't the work—it's managing the flow.<br>
+🤝 **Your network IS your safety net**: Your next project comes from someone who knows someone. Invest in relationships like your business depends on it (because it does).<br>
+🤖 **Automate or suffocate**: The admin work will drown you unless you systematically eliminate it through automation and smart tools.<br>
 🎯 **Brand = Trust = Revenue**: A professional web presence isn't vanity—it's how clients decide whether to hire you before they even reach out.
 
 # My Journey
-Let me be honest: working for yourself can be incredible, but it's not the Instagram-filtered version of entrepreneurship. You get independence and can finally choose projects that excite you. You escape the organizational overhead that never made sense anyway.
+Working for yourself can be incredible, but it's not the Instagram-filtered version of entrepreneurship. You get independence and can finally choose projects that excite you. You escape the organizational overhead that never made sense anyway.
 
 But here's the flip side: you're now responsible for everything. Marketing, sales, delivery, accounting, taxes—it's all you. The first few months can be slow if you're not already well-known. And yes, instead of one boss, you'll have multiple clients (though I've found this surprisingly easier to manage).
 
 After three years, I can say unequivocally: the pluses far outweigh the minuses.
 
-# What I Love About Independence
+# What I Love
 **1. You curate your portfolio**
 Every project is a choice. If something doesn't align with your values or interest you, you simply don't take it. This single factor has made my work 10x more fulfilling.
 
@@ -64,7 +59,7 @@ When every hour counts, you get creative. I've automated my invoicing, time trac
 **6. Continuous learning is built-in**
 Investing in yourself isn't about getting approval for a training budget. You decide what skills will make you more competitive or your work more interesting, and you learn them. Simple.
 
-:::{note} On working with multiple clients
+:::{important} On working with multiple clients
 :class: dropdown
 People often ask: "Don't you just trade one boss for many?" 
 
@@ -73,7 +68,7 @@ Technically, yes—I might have 3-5 active clients at once. But here's the diffe
 The temporary nature of consulting relationships actually makes them easier to navigate. If a client relationship isn't working, the project ends. If it's going great, you get hired again. It's refreshingly straightforward.
 :::
 
-# The Challenges (Let's Be Real)
+# Challenges
 If everything was perfect, everyone would do this. Here's what actually keeps me up at night:
 
 **1. The feast-or-famine cycle**
@@ -100,7 +95,7 @@ Admin, sales, marketing, delivery, accounting, taxes—it's all you. The trick i
 The lesson: Before you subscribe to expensive tools, see if you can automate it yourself. Your future self will thank you.
 :::
 
-# Action Steps: Start Here
+# Action Steps
 If you're considering making the leap, here's where to invest your time and money:
 
 **1. Build your digital home base**
@@ -113,9 +108,9 @@ Get a Canva subscription and work with a designer (even a freelancer on Fiverr) 
 
 ---
 
-## Your Turn
+# Your Turn
 **For those already independent:** What's your #1 tip for managing the feast-or-famine cycle? Drop it in the comments—let's help each other.
 
 **For those considering the leap:** What's holding you back? The community here is incredibly supportive.
 
-**Want to connect?** If you're in [your industry], I'd love to hear what you're working on. My DMs are open.
+**Want to connect?** I'd love to hear what you're working on. 
