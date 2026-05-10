@@ -1,5 +1,5 @@
 ---
-title: Get Real Talk About Independent Consulting
+title: Get Real About Independent Consulting
 subject: Consulting
 short_title: What 10 years of independence taught me
 date: 2026-05-01
@@ -33,7 +33,7 @@ If you're considering independence, you've probably heard the usual tropes of be
 🤖 **Automate or suffocate**: The admin work will drown you unless you systematically eliminate it through automation and smart tools.<br>
 🎯 **Brand = Trust = Revenue**: A professional web presence isn't vanity—it's how clients decide whether to hire you before they even reach out.
 
-# My Journey
+# Independence vs. do-all
 Working for yourself can be incredible, but it's not the Instagram-filtered version of entrepreneurship. You get independence and can finally choose projects that excite you. You escape the organizational overhead that never made sense anyway.
 
 But here's the flip side: you're now responsible for everything. Marketing, sales, delivery, accounting, taxes—it's all you. The first few months can be slow if you're not already well-known. And yes, instead of one boss, you'll have multiple clients (though I've found this surprisingly easier to manage).
@@ -95,7 +95,7 @@ Admin, sales, marketing, delivery, accounting, taxes—it's all you. The trick i
 The lesson: Before you subscribe to expensive tools, see if you can automate it yourself. Your future self will thank you.
 :::
 
-# Action Steps
+# Actions
 If you're considering making the leap, here's where to invest your time and money:
 
 **1. Build your digital home base**
@@ -108,7 +108,7 @@ Get a Canva subscription and work with a designer (even a freelancer on Fiverr) 
 
 ---
 
-# Your Turn
+# Feedback
 **For those already independent:** What's your #1 tip for managing the feast-or-famine cycle? Drop it in the comments—let's help each other.
 
 **For those considering the leap:** What's holding you back? The community here is incredibly supportive.
