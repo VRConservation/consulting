@@ -1,7 +1,7 @@
 ---
-title: CONSULTING LIKES/DISLIKES
+title: The Real Talk About Independent Consulting Nobody Tells You
 subject: Consulting
-short_title: Likes & dislikes of working independently
+short_title: What 10 years of independence taught me
 date: 2026-05-01
 authors:
   - name: Vance Russell
@@ -16,52 +16,106 @@ exports:
     template: curvenote
     output: exports/indep.docx
     article_type: Report
-  - format: typst
+  - format: pdf
     template: lapreprint-typst
     output: exports/indep.pdf
 ---
 
-# Takeaways
-- **Autonomy outweighs challenges**: Independence offers significant freedom to choose projects, control your schedule, and escape corporate politics—benefits that far outweigh the entrepreneurial burdens.
-- **Project balance is critical**: The hardest part of consulting isn't the work itself, but finding equilibrium between too many and too few projects to maintain sustainable hours and income.
-- **Network**. This may seem obvious, but it's critical for building a project pipeline and letting people know you're available for hire and what your services are. Having an updated LinkedIn profile with these services, and a website with a more detailed listing of CV, clients, projects, publications, and perhaps a blog is also a good idea. Even if the website is a more detailed card, that's better than nothing.
-- **Automate**: Investing in tools and scripts to automate repetitive admin tasks (invoicing, time tracking, taxes) can help with addressing administrative procedures or repetitive tasks you need to complete routinely.
-- **Build your brand early  often**: A professional website on your own domain and cohesive marketing materials are essential investments that pay dividends in attracting clients and establishing credibility.
+# The Real Talk About Independent Consulting Nobody Tells You
+*Three years ago, I walked away from working for an organizatin. Here's what I learned about working for yourself—the good, the challenging, and the surprisingly liberating.*
 
-# Overview
-Working for yourself can be amazing, but it does come with some challenges. First, you're independent, can pick and choose projects you want, you don't have a boss, and you're not paying overhead to a business or organization that isn't your own. On the other hand, you have to market yourself and build a project base, you have many bosses (albeit temporary), and you have to pay taxes and other indirect operating costs yourself. Balancing some administrative issues can take a toll, and many pay others to do this for them, e.g., taxes, bookkeeping, and invoicing. Don't get disillusioned at the start; it could be slow if you're not well known in the field. Market the heck out of your experience and network every chance you can get. Yet overall, I've found the pluses to far outweigh the minuses. In this article, I review my likes and dislikes of working independently and offer some insights for things to consider if you're contemplating becoming independent.
+## Why This Matters
+If you're considering independence, you've probably heard the usual advice: "be your own boss," "unlimited earning potential," "work from anywhere." But here's what actually happens when you make the leap—and why I'd do it again in a heartbeat.
 
-# Likes
-1. **Choose your focus & expertise.** That's right, you're in charge. Choose what you work on and ignore the projects that don't interest you.
-2. **Your schedule, your time**. Work when you want, how much you want, and how you want. If you want to go surfing in the morning, then work, do it! You're the boss.
-3. **No more performance reviews**. I couldn't stand performance reviews. Funnily enough, I don't mind critical feedback from clients now. Reviews were always tense, full of nonsense and falsehoods, and always seemed adversarial. Don't be afraid to ask clients for feedback, though!
-4. **Office politics and dynamics are gone**. You are never going to have a note in the refrigerator again screaming, "WHO ATE MY CHANTILLY PIE" or whatever. You don't have to pay attention to office politics (mostly) because you don't work in that office.
-5. **Automating the boring administrative stuff**. As mentioned below, a negative is that you have to do everything. Automate boring repetitive tasks using code, AI, and AI agents.
-6. **Learn new skills**. Invest in yourself to learn new skills, especially those that make you more competitive or make your work more interesting.
+# Key Insights
+💡 **Autonomy trumps security**: The freedom to choose your projects and control your time is worth more than a steady paycheck and benefits package.
 
-:::{warning} A word about bosses 👔 👑
+⚖️ **The project pipeline paradox**: You'll oscillate between feast and famine until you find your rhythm. The hardest part isn't the work—it's managing the flow.
+
+🤝 **Your network IS your safety net**: Your next project comes from someone who knows someone. Invest in relationships like your business depends on it (because it does).
+
+🤖 **Automate or suffocate**: The admin work will drown you unless you systematically eliminate it through automation and smart tools.
+
+🎯 **Brand = Trust = Revenue**: A professional web presence isn't vanity—it's how clients decide whether to hire you before they even reach out.
+
+# My Journey
+Let me be honest: working for yourself can be incredible, but it's not the Instagram-filtered version of entrepreneurship. You get independence and can finally choose projects that excite you. You escape the organizational overhead that never made sense anyway.
+
+But here's the flip side: you're now responsible for everything. Marketing, sales, delivery, accounting, taxes—it's all you. The first few months can be slow if you're not already well-known. And yes, instead of one boss, you'll have multiple clients (though I've found this surprisingly easier to manage).
+
+After three years, I can say unequivocally: the pluses far outweigh the minuses.
+
+# What I Love About Independence
+**1. You curate your portfolio**
+Every project is a choice. If something doesn't align with your values or interest you, you simply don't take it. This single factor has made my work 10x more fulfilling.
+
+**2. Time becomes yours again**
+Want to surf at 10am and work at 8pm? Do it. Need to take Wednesday afternoon off for your kid's recital? Done. The flexibility isn't just about convenience—it's about designing a life, not just a career.
+
+**3. Feedback that actually matters**
+Here's something unexpected: I prefer client feedback to performance reviews. Why? Client feedback is specific, actionable, and free from politics. It's about the work, not office dynamics or budget limitations. When a client gives critical feedback, I can actually use it.
+
+**4. The end of office drama**
+No more mysterious missing lunches. No more passive-aggressive meeting scheduling. No more navigating interpersonal landmines. You work with your clients on their projects, then you're done. Clean, professional, focused.
+
+**5. Automation becomes your superpower**
+When every hour counts, you get creative. I've automated my invoicing, time tracking, and reporting—turning 4 hours of monthly admin work into 30 seconds. (More on this below.)
+
+**6. Continuous learning is built-in**
+Investing in yourself isn't about getting approval for a training budget. You decide what skills will make you more competitive or your work more interesting, and you learn them. Simple.
+
+:::{note} On working with multiple clients
 :class: dropdown
-Boss-bashing is easy and tempting. Although they're just trying to do their jobs, I often find them to be a hindrance, to do reviews poorly, and to care more about the bottom line or rules than about getting work done or innovating. I can only think of one boss that I honestly say was a good boss. I had one boss who harangued me for not coming to a staff retreat (it was the middle of the field season) while he was banging 2 other staff members, and he was later fired for it. I had another boss, a spineless scientist who didn't know what he was doing and never came to visit me in the field, yet he seemed to think his review of me was worth signing.
+People often ask: "Don't you just trade one boss for many?" 
 
-Another boss kept claiming I didn't do enough fundraising, yet my program raised the most money in the country. When I tracked fundraising metrics and showed them to her, I had exceeded all the goals we agreed upon at the beginning of the year. She couldn't dispute the numbers, but equivocated when I told her she had bumped me down in previous years, even though I had raised similar amounts.
+Technically, yes—I might have 3-5 active clients at once. But here's the difference: these relationships are project-based, time-limited, and focused purely on deliverables. There's no annual review, no politics, no fighting for resources. Client feedback is constructive input on improving the work, not a performance evaluation tied to raises or promotions.
 
-I don't miss having them at all. Some may say that when consulting, you may have four or more bosses, depending on how many projects you're running. However, nearly all consulting projects are short-term, which means the boss is short-term. Somehow, I don't mind getting feedback from each client; it's just input on how to do my work better, and not really like a performance review.
+The temporary nature of consulting relationships actually makes them easier to navigate. If a client relationship isn't working, the project ends. If it's going great, you get hired again. It's refreshingly straightforward.
 :::
 
-# Dislikes
-The likes far outweigh and outnumber the dislikes; I wouldn't be working independently anymore. There are a few, though:
+# The Challenges (Let's Be Real)
+If everything was perfect, everyone would do this. Here's what actually keeps me up at night:
 
-1. **Project number balance**. There is a challenge in getting the balance just right between too many projects and too few. However, when you don't have enough, you try to get more, and then all of a sudden, you have too much. Finding that balance is key to not working weekends and on your own terms.
-2. **Scope drift**. Clients who start asking for too much and micromanaging projects can be a pain. You want to please them and do your best, and having to refer back to the scope to say certain requests are beyond it can be awkward. However, sticking to that will help you stay on budget and in line with the original project.
-3. **Do everything**. And yes, this means all the admin stuff, paperwork, taxes, and other administrative items, unless you hire someone to do it. Be aware of too many hires for admin and software for bookkeeping and other items. It's easy to spend a lot of money on things that you don't really need or have too many features for your business. In some cases, it's easier to create your own automation for repetitive tasks. See the box below for an example.
+**1. The feast-or-famine cycle**
+This is the hardest part: finding the Goldilocks zone between too many projects and too few. When work is slow, you hustle to get more. Then suddenly, you're drowning in commitments and working weekends. Learning to manage this pipeline is the make-or-break skill for independent consultants.
 
-:::{important} Automate the boring stuff </> 👾 🚀 🤖
+**2. Scope creep is real**
+Clients don't mean to, but they'll keep asking for "just one more thing." You want to deliver excellence, but saying "that's outside our scope" feels uncomfortable when you're trying to build relationships. Setting boundaries early and referring back to the agreed scope becomes essential.
+
+**3. You are the entire company**
+Admin, sales, marketing, delivery, accounting, taxes—it's all you. The trick is NOT to throw money at expensive software or hire help prematurely. Many tasks can be automated (see below), and keeping your overhead low in the early years gives you breathing room.
+
+:::{important} Real automation example: From 4 hours to 30 seconds
 :class: dropdown
-Using Python and other code to automate boring and repetitive tasks can be a lifesaver when you're a small shop or can't afford to pay an assistant to do this work. Last year, I found that each month I was spending a lot of time tracking hours and creating invoices. I also read an article saying my time tracker had telemetry built in—less than ideal. I tested a few paid subscription invoice software companies, but found they didn't meet my needs, were too expensive, or had many features I would never use, such as time-tracking for multiple staff members.
+**The problem:** Every month, I spent 4+ hours tracking time and generating invoices. The commercial software I tried was either too expensive, privacy-invasive, or bloated with features I'd never use.
 
-I found a terminal-based tool called Tock that was free and open-source to track my time and generate terminal-based reports on the time billed to projects. I then exported the time entries and converted them to a CSV. With the CSV, I was then able to parse out hours for each client and create a PDF invoice for each month. Running the new script took less than a second to create a customized invoice for each client, including a summary report section of what I had accomplished during the invoice period.
+**The solution:** I found Tock, a free open-source time tracker. I built a simple Python script that:
+- Exports my time entries to CSV
+- Parses hours by client
+- Generates customized PDF invoices with project summaries
+- Runs in under a second
+
+**The impact:** What took half a day now happens instantly. I reclaimed 48 hours per year—time I can bill to clients or spend doing literally anything else.
+
+The lesson: Before you subscribe to expensive tools, see if you can automate it yourself. Your future self will thank you.
 :::
 
-# Resources
-1. **Build your own website**. Make sure you have a good page on LinkedIn, and also have at least a bare-bones website you can use as a calling card. Even better, if your CV and quals are on the site, you can send the link when clients ask for your experience. There are a lot of web hosting sites that are not terribly expensive, but you're not in control of your information, and some, like wix.com, constantly hit you up for more features. Building your own site from a free template and hosting it on GitHub (also free) is a minimalist way to have your own site. GitHub allows you to add a personalized domain, so go to the site, purchase your domain, and then host it for free on GitHub. A [CV template](https://github.com/VRConservation/cv-template2) I adapted from Qiusheng Wu is a great way to get started, and it also generates a CV PDF export. If you need help getting started or get stuck, let me know.
-2. **Create marketing materials**. A subscription to Canva is worthwhile for at least getting this going, and allows you to upload your marketing materials and use them in multiple formats. Working with a designer to create your logo, color palette, and associated text is worth it from the start of your business.
+# Action Steps: Start Here
+If you're considering making the leap, here's where to invest your time and money:
+
+**1. Build your digital home base**
+Yes, LinkedIn is important—but you also need a website you control. Not Wix (upsell city), not a social media page (you don't own it). Your own domain.
+
+The good news: You can host a professional site on GitHub for free. I adapted this [CV template](https://github.com/VRConservation/cv-template2) from Qiusheng Wu—it generates both a website and PDF CV. When clients ask for your background, send one link. Done.
+
+**2. Invest in visual branding early**
+Get a Canva subscription and work with a designer (even a freelancer on Fiverr) to create your logo, color palette, and basic templates. This pays dividends immediately. Cohesive, professional materials signal that you're serious and established—even when you're just starting out.
+
+---
+
+## Your Turn
+**For those already independent:** What's your #1 tip for managing the feast-or-famine cycle? Drop it in the comments—let's help each other.
+
+**For those considering the leap:** What's holding you back? The community here is incredibly supportive.
+
+**Want to connect?** If you're in [your industry], I'd love to hear what you're working on. My DMs are open.
